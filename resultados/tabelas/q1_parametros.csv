@@ -1,0 +1,7 @@
+Parâmetro;Planilha 1 — antes (população);Planilha 2 — depois (amostra)
+n (observações);300,0;100,0
+Média (min);31,886666666666667;29,310000000000006
+Desvio-padrão (min);3,818116761910356;3,8184427520266757
+Mediana (min);31,8;29,299999999999997
+Proporção em [20, 30] — modelo normal (Q5 corrigida);0,3096800120142228;
+Proporção em [20, 30] — frequência observada;0,3233333333333333;0,57
